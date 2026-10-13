@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#background-image {
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(./pexels-burst-373904.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 270px;
+    margin-bottom: 400px;
+}
+.header{
+    font-size: 30px;
+    color: #6ae;
+    text-align: center;
+    margin-top: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#btn{
+    color: #ffffff;
+    background-color: teal;
+    margin-top: 20px;
+    margin-left: 600px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+    
+    
+    
+}
